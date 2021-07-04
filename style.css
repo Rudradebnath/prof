@@ -53,4 +53,13 @@ background-repeat: no-repeat;
 }
 .skill{
     padding-left: 45%;
+    color: darksalmon;
+}
+.experience-item{
+    box-shadow: 10px 10px 10px rgb(136, 109, 109);
+    width: 40%;
+    margin: 5% 5%;
+    padding-left: 5%;
+    border-radius: 5%;
+    border-left: 10px solid deeppink;
 }
