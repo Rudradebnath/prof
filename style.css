@@ -1,0 +1,53 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+#welcome{
+    padding-left: 70px;
+}
+#to{
+    padding-left: 100px;
+}
+#rudra{
+    padding-left: 47px;
+}
+span{
+    color: aqua;
+}
+section{
+    display: flex;
+    margin-bottom: 10%;
+}
+h3{
+    color: crimson;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+img{
+    width: 50%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(blue black);
+    color: darkgray;
+    font-weight: 800;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+p{
+    text-align: justify;
+}
+.first-class{
+background-image: url(top-banner.png);
+background-repeat: no-repeat;
+}
+.second-class{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.paragraph-two{
+    padding-right: 30%;
+}
