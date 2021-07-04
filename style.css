@@ -63,3 +63,7 @@ background-repeat: no-repeat;
     border-radius: 5%;
     border-left: 10px solid deeppink;
 }
+footer p{
+    color: firebrick;
+    text-align: center;
+}
